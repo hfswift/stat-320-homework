@@ -1,0 +1,32 @@
+---
+title: "STAT 320 Homework 2: Inference to Medians"
+author: "NAME"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+*This document is a place for you to complete the assignment and store your work. You do not need to submit the .qmd or .html of this file. *
+
+```{r}
+#| label: setup
+
+#load packages as needed
+```
+
+
+```{r}
+#load data as needed
+```
+
+
+Question 1.  
+
+```{r}
+#complete code as needed to answer problems
+```
+
