@@ -4,3 +4,8 @@
 .httr-oauth
 .DS_Store
 .quarto
+stat-320-homework.Rproj
+.gitignore
+*key.qmd
+*key.html
+
