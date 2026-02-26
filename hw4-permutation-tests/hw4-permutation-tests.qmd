@@ -1,0 +1,33 @@
+---
+title: "STAT 320 Homework 4: Permutation Tests"
+author: "NAME"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+*This document is a place for you to complete the assignment and store your work. You do not need to submit the .qmd or .html of this file. *
+
+```{r}
+#| label: setup
+
+#load packages as needed
+```
+
+
+```{r}
+#| label: load-data
+rings <- c(98, 79, 147, 200, 130, 60, 51, 127, 105, 75, 120, 113, 200, 190, 81, 98, 160, 165, 134, 62, 152, 66, 68, 124, 190, 159, 60)
+```
+
+
+Question 1.  
+
+```{r}
+#complete code as needed to answer problems
+```
+
